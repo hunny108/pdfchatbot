@@ -8,4 +8,7 @@ sentence-transformers==2.2.2
 transformers==4.34.0
 huggingface_hub==0.16.4
 gunicorn
-distutils
+nbdt==0.0.4
+numpy
+torch==1.8.1
+torchvision==0.9.1
